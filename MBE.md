@@ -1,0 +1,1 @@
+Nakagome, S., Alkorta-Aranburu, G., Amato, R., Howie, B., Peter, B. M., Hudson, R. R., & Di Rienzo, A. (2015). Estimating the ages of selection signals from different epochs in human history. Molecular biology and evolution, msv256.doi: 10.1093/molbev/msv256
