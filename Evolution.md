@@ -1,4 +1,4 @@
-# Journal Evolution Updates
+## Journal Evolution Updates
 
 11_18_15
 
