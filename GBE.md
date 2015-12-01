@@ -1,5 +1,5 @@
 # Genome Biology & Evolution
-#### The following articles seem interesting. 
+#### The following articles seem interesting 
 
 1. [Graur et al. 2013. On the Immortality of Television Sets: “Function” in the
 Human Genome According to the Evolution-Free Gospel
