@@ -5,7 +5,8 @@
 Human Genome According to the Evolution-Free Gospel
 of ENCODE](http://gbe.oxfordjournals.org/content/5/3/578.full.pdf+html)
 
-   -Project ENCODE
+   -Veracity of project ENCODE
+   
    -Genome functionality
    
 2.) [Brunet and Doolittle 2015. Multilevel Selection Theory and the Evolutionary Functions
