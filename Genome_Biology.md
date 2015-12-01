@@ -17,3 +17,7 @@
 
 5. [Gentleman et al. 2004. Bioconductor: open software development for computational biology and bioinformatics](http://www.genomebiology.com/2004/5/10/R80)
    - Development and widespread use of software
+
+6. [Lawrenson et al. 2015. Induction of targeted, heritable mutations in barley and Brassica oleracea using RNA-guided Cas9 nuclease](http://www.genomebiology.com/2015/16/1/258)
+   - RNA-guided Cas9 system for genome editing in *Hordeum vulgare* and *Brassica oleracea*
+   - Rapid characterization of gene function
