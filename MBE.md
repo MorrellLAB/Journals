@@ -10,5 +10,5 @@
    - Flexible to model population history with multiple growth stages or other epochs
 3. [Cheeseman, Ian H., et al. (2015). Population structure shapes copy number variation in malaria parasites. Molecular biology and evolution (2015): msv282.]
 (http://mbe.oxfordjournals.org/content/early/2015/11/26/molbev.msv282.abstract)
-   -Copy number variation and population structure
-   -Maybe we can also examine copy number variation in Barley
+   - Copy number variation and population structure
+   - Maybe we can also examine copy number variation in Barley
