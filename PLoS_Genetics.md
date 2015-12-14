@@ -3,11 +3,13 @@
 13 Dec 2015
 
 [Homburger JR, Moreno-Estrada A, Gignoux CR, Nelson D, Sanchez E et al. (2015) Genomic insights into the ancestry and demographic history of South America. PLoS Genet 11: e1005602.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005602)
+- Human demographic history in South America
 
 [Lipson M, Loh PR, Sankararaman S, Patterson N, Berger B, Reich D (2015 Nov) Calibrating the human mutation rate via ancestral recombination density in diploid genomes. PLoS Genet 11: e1005550.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005550)
+- A novel approach for estimating mutation rates
 
 [Ralph PL, Coop G (2015 Nov) Convergent evolution during local adaptation to patchy landscapes. PLoS Genet 11: e1005630.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005630)
-
+- Theory related to local adaptation
 
 13 Nov 2015
 
