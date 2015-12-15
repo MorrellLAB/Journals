@@ -1,6 +1,6 @@
 # Genome Research
 
-- [Keith, et al., 2015. High mutational rates of large-scale duplication and deletion in Daphnia pulex.](http://genome.cshlp.org/content/early/2015/12/14/gr.191338.115.abstract)
+- [Keith et al., 2015. High mutational rates of large-scale duplication and deletion in Daphnia pulex.](http://genome.cshlp.org/content/early/2015/12/14/gr.191338.115.abstract)
 	- Mutation accumulation (MA) study in _Daphnia_
 	- Estimates of base substitution rate similar to other Eukaryotes
 	- Estimates of CNV much higher than those observed in other MA studies
