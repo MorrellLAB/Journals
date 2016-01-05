@@ -1,5 +1,10 @@
 ## Journal Evolution Updates
 
+1_5_16
+
+[Lohr, J. N. and Haag, C. R. (2015), Genetic load, inbreeding depression, and hybrid vigor covary with population size: An empirical evaluation of theoretical predictions. Evolution, 69: 3109–3122. doi: 10.1111/evo.12802](http://onlinelibrary.wiley.com/doi/10.1111/evo.12802/abstract)
+-This paper produces empirical evidence that the effects of inbreeding depression increase in populations with increased genetic diversity, and that hybrid vigor decreases in less diverse populations.  The system used is a plankton species (Daphnia magna), where 8 populations were sampled and genotyped using SSRs.  Population expected heterozygosity was used to correlate the effects of inbreeding and hybrid vigor with genetic diversity. Phenotypic data included the plankton's lifespan, days until reproduction, and total number of offspring.
+
 11_18_15
 
 [Eaton, D. A. R., Hipp, A. L., González-Rodríguez, A. and Cavender-Bares, J. (2015), Historical introgression among the American live oaks and the comparative nature of tests for introgression. Evolution, 69: 2587–2601. doi: 10.1111/evo.12758](http://onlinelibrary.wiley.com/doi/10.1111/evo.12758/abstract)
