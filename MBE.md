@@ -12,3 +12,5 @@
 (http://mbe.oxfordjournals.org/content/early/2015/11/26/molbev.msv282.abstract)
    - Copy number variation and population structure
    - Maybe we can also examine copy number variation in Barley
+4. [Castellano, D., Coronado-Zamora, M., Campos, J. L., Barbadilla, A., & Eyre-Walker, A. (2015). Adaptive Evolution Is Substantially Impeded by Hill–Robertson Interference in Drosophila. Molecular biology and evolution, msv236.] (http://mbe.oxfordjournals.org/content/33/2/442.full.pdf+html)
+   - Quantify the overall impact of Hill–Robertson Interference on the rate of adaptive evolution for Drosophila genome
