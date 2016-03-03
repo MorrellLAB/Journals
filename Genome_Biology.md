@@ -1,6 +1,8 @@
 # Genome Biology Articles
 ###### The following is a list of papers from Genome Biology that seemed interesting.
 
+===
+
 ##### [Smolka et al. 2015. Teaser: Individualized benchmarking and optimization of read mapping results for NGS data](http://www.genomebiology.com/2015/16/1/235)
    - Read mapping for low-quality assemblies or high mutation rates. Optimizing mapper choice and parameters.
    - `Teaser` software
