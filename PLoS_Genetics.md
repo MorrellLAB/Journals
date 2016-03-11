@@ -1,5 +1,10 @@
 # PLoS Genetics - recent papers of interest
 
+11 Mar 2016
+
+[Cooke TF, Yee M-C, Muzzio M, Sockell A, Bell R et al. (2016) GBStools: A statistical method for estimating allelic dropout in reduced representation sequencing data. PLoS Genet 12: e1005631.](http://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1005631)
+- Advanced handling of genotype by sequencing data issues
+
 13 Dec 2015
 
 [Homburger JR, Moreno-Estrada A, Gignoux CR, Nelson D, Sanchez E et al. (2015) Genomic insights into the ancestry and demographic history of South America. PLoS Genet 11: e1005602.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005602)
