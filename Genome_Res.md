@@ -1,5 +1,8 @@
 # Genome Research
-
+- [Hsiao et al., 2016. Alternative splicing modulated by genetic variants demonstrates accelerated evolution regulated by highly conserved proteins.](http://genome.cshlp.org/content/early/2016/03/09/gr.193359.115.abstract)
+    - Identification of genetic variants associated with alternative splicing.
+    - Exons, introns, and SNPs associated with alternative splicing show accelerated evolution in primates.
+    - Propose that the machinery is highly conserved, and shows strong allele bias.
 - [Keith et al., 2015. High mutational rates of large-scale duplication and deletion in Daphnia pulex.](http://genome.cshlp.org/content/early/2015/12/14/gr.191338.115.abstract)
 	- Mutation accumulation (MA) study in _Daphnia_
 	- Estimates of base substitution rate similar to other Eukaryotes
