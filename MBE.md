@@ -14,3 +14,6 @@
    - Maybe we can also examine copy number variation in Barley
 4. [Castellano, D., Coronado-Zamora, M., Campos, J. L., Barbadilla, A., & Eyre-Walker, A. (2015). Adaptive Evolution Is Substantially Impeded by Hill–Robertson Interference in Drosophila. Molecular biology and evolution, msv236.] (http://mbe.oxfordjournals.org/content/33/2/442.full.pdf+html)
    - Quantify the overall impact of Hill–Robertson Interference on the rate of adaptive evolution for Drosophila genome
+5. [Stevison, L. S., Woerner, A. E., Kidd, J. M., Kelley, J. L., Veeramah, K. R., McManus, K. F., ... & Wall, J. D. (2015). The time-scale of recombination rate evolution in great apes. Molecular biology and evolution, msv331.]
+(http://mbe.oxfordjournals.org/content/33/4/928.full)
+   - Analyze within- and between-species genome-wide recombination rate variation in several close relatives
