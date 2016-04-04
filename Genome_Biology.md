@@ -3,6 +3,12 @@
 
 ===
 
+##### [Joo et al. 2016. Multiple testing correction in linear mixed models](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0903-6)
+   - GWAS multiple hypothesis testing correction approach
+   - Reduce amount of time to estimate per-marker thresholds accurately
+
+===
+
 ##### [Muir et al. 2016. The real cost of sequencing: scaling computation to keep pace with data generation](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0917-0)
    - Short paper on Sequencing cost decrease & Sequence data generated increases
    - Data storage & Analysis
