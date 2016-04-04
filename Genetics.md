@@ -1,3 +1,14 @@
+### March 2016
+[Natural Selection and Recombination Rate Variation Shape Nucleotide Polymorphism Across the Genomes of Three Related Populus Species](http://www.genetics.org/content/202/3/1185)
+  - Looked at whole genome resequencing data to characterize and compare genome-wide patterns of nucleotide polymorphism, site frequency spectrum, and population-scaled recombination rates in three species of Populus
+  - Concluded that Differences in effective population sizes and rates of recombination largely explain the disparate magnitudes and signatures of linked selection that we observe among species
+
+[Genomic Patterns of Geographic Differentiation in Drosophila simulans](http://www.genetics.org/content/202/3/1229)
+  - Examined genomic patterns of genetic differentiation between northen and southern populations of D. simulans, in particular looking for evidence parallel differentiation. 
+  - Strongest support for parallel differentiation is in genomic regions that are associated with regulation. 
+  - Comparisons to Drosophila melanogaster yielded potential candidate genes involved in local adaptation in both species, providing insight into common selective pressures and responses
+
+
 ### February 2016
 [The Role of Recombination in Evolutionary Rescue](http://www.genetics.org/content/202/2/721)
   - Thought provoking article exploring the dynamics of recombination and adaptation.  Recombination can bring favorable gene combination together but can also break them up.  If a sudden environmental shift occurs, how does recombination play into the survival (or extinction) of a species?
