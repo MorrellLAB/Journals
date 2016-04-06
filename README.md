@@ -13,6 +13,7 @@ Each contributor listed below should add a file that will include entries from t
 | Genome Bio | Chaochih Liu  |
 | Genome Res | Tom Kono      |
 | MBE        | Li Lei        |
+| Mol Ecology| Skylar Wyant  |
 | Nat Gen    | Jeff Neyhart  |
 | PLoS Genet | Peter Morrell |
 | PNAS       | Paul Hoffman  |
