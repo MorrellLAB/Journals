@@ -1,4 +1,19 @@
 # Genome Research
+- [Uricchio et al., 2016. Selection and explosive growth alter genetic architecture and hamper the detection of causal rare variants.](http://genome.cshlp.org/content/26/7/863.abstract)
+    - Develop a phenotype model based off Simons et al. 2014 and Eyre-Walker 2010 that incorporates selective coefficients, effect sizes, and peiotropic effects
+    - Evaluate their model with simulation and RNAseq of 360 individuals with European ancestry
+    - Demographic factors (particularly population expansion) can increase the impact of rare alleles on trait variation
+    - Approaches that bin markers to try to capture the effect of rare alleles of large effect perform poorly because they ignore evolution of rare alleles
+- [Faino et al., 2016. Transposons passively and actively contribute to evolution of the two-speed genome of a fungal pathogen.](http://genome.cshlp.org/content/early/2016/06/20/gr.204974.116.abstract)
+    - Transposable elements are a mechanism for ``genomic plasticity'' that allows for adaptation
+    - Virulence loci in *Verticillium dahliae* evolve through error-prone double stranded break repair and gene duplication mediated by transposable elements
+- [Cardoso-Moreira et al., 2016. Evidence for the fixation of gene duplications by positive selection in Drosophila](http://genome.cshlp.org/content/26/6/787.abstract)
+    - Most gene duplications in a *Drosophila* diversity panel are at low frequency, evidence of being under purifying selection
+    - Nine gene duplications (of ~500 in the panel) are near fixation in at least one subpopulation, and linked SNPs show evidence of positive selection
+- [Dhokarh and Abyzov, 2016](http://genome.cshlp.org/content/early/2016/05/23/gr.205484.116.abstract)
+    - Examined heterozygous deletions in 1000 Genomes data with synthetic long read sequencing data
+    - Found ~2-fold higher mutation rate for regions in-phase with the deletion than regions out-of-phase
+    - Posit that mechanisms that generate CNV are error-prone and may explain hypermutable regions
 - [Hsiao et al., 2016. Alternative splicing modulated by genetic variants demonstrates accelerated evolution regulated by highly conserved proteins.](http://genome.cshlp.org/content/early/2016/03/09/gr.193359.115.abstract)
     - Identification of genetic variants associated with alternative splicing.
     - Exons, introns, and SNPs associated with alternative splicing show accelerated evolution in primates.
