@@ -1,5 +1,11 @@
 # PLoS Genetics - recent papers of interest
 
+03 July 2016
+
+[Kryazhimskiy S, Plotkin JB (2008) The population genetics of dN/dS. PLoS Genet 4: e1000304.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000304)
+- Is dN/dS analysis appropriate for analysis of intraspecific resequencing data?
+
+
 11 Mar 2016
 
 [Cooke TF, Yee M-C, Muzzio M, Sockell A, Bell R et al. (2016) GBStools: A statistical method for estimating allelic dropout in reduced representation sequencing data. PLoS Genet 12: e1005631.](http://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1005631)
