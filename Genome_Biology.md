@@ -4,8 +4,8 @@
 ===
 
 ##### [Unterseer et al. 2016. A comprehensive study of the genomic differentiation between temperate Dent and Flint maize](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1009-x)
-    - Aims to understand genomic differences between two pools
-    - Traits that differentiate between two pools: cold tolerance, early vigor, and flowering time
+   - Aims to understand genomic differences between two pools
+   - Traits that differentiate between two pools: cold tolerance, early vigor, and flowering time
 
 ===
 
