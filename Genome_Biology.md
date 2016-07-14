@@ -3,6 +3,12 @@
 
 ===
 
+##### [Unterseer et al. 2016. A comprehensive study of the genomic differentiation between temperate Dent and Flint maize](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1009-x)
+    - Aims to understand genomic differences between two pools
+    - Traits that differentiate between two pools: cold tolerance, early vigor, and flowering time
+
+===
+
 ##### [Joo et al. 2016. Multiple testing correction in linear mixed models](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0903-6)
    - GWAS multiple hypothesis testing correction approach
    - Reduce amount of time to estimate per-marker thresholds accurately
