@@ -3,6 +3,11 @@
 
 ===
 
+##### [Matthew B Hufford 2016. Comparative genomics provides insight into maize adaptation in temperate regions](http://download.springer.com/static/pdf/457/art%253A10.1186%252Fs13059-016-1020-2.pdf?originUrl=http%3A%2F%2Fgenomebiology.biomedcentral.com%2Farticle%2F10.1186%2Fs13059-016-1020-2&token2=exp=1468585771~acl=%2Fstatic%2Fpdf%2F457%2Fart%25253A10.1186%25252Fs13059-016-1020-2.pdf*~hmac=82088ed2e0e58d649827437ce474f4796022999b7fe5ea29bbacaf23926bf7cb)
+   - Review paper on maize adaptation in temperate regions
+
+===
+
 ##### [Unterseer et al. 2016. A comprehensive study of the genomic differentiation between temperate Dent and Flint maize](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1009-x)
    - Aims to understand genomic differences between two pools
    - Traits that differentiate between two pools: cold tolerance, early vigor, and flowering time
