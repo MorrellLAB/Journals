@@ -17,3 +17,6 @@
 5. [Stevison, L. S., Woerner, A. E., Kidd, J. M., Kelley, J. L., Veeramah, K. R., McManus, K. F., ... & Wall, J. D. (2015). The time-scale of recombination rate evolution in great apes. Molecular biology and evolution, msv331.]
 (http://mbe.oxfordjournals.org/content/33/4/928.full)
    - Analyze within- and between-species genome-wide recombination rate variation in several close relatives
+6. [de Filippo, C., Key, F. M., Ghirotto, S., Benazzo, A., Meneu, J. R., Weihmann, A., ... & Andrés, A. M. (2016). Recent selection changes in human genes under long-term balancing selection. Molecular biology and evolution, msw023](http://mbe.oxfordjournals.org/content/33/6/1435.full.pdf+html)
+   - loci show hallmark signatures of long-term balancing selection in African populations, but not in Eurasian populations
+   - Balancing selection thus likely served as a source of functional alleles that mediated subsequent adaptations to novel environments
