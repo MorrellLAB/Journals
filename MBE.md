@@ -20,3 +20,10 @@
 6. [de Filippo, C., Key, F. M., Ghirotto, S., Benazzo, A., Meneu, J. R., Weihmann, A., ... & Andrés, A. M. (2016). Recent selection changes in human genes under long-term balancing selection. Molecular biology and evolution, msw023](http://mbe.oxfordjournals.org/content/33/6/1435.full.pdf+html)
    - loci show hallmark signatures of long-term balancing selection in African populations, but not in Eurasian populations
    - Balancing selection thus likely served as a source of functional alleles that mediated subsequent adaptations to novel environments
+7. [Zhang, M., Zhou, L., Bawa, R., Suren, H., & Holliday, J. A. (2016). Recombination rate variation, hitchhiking, and demographic history shape deleterious load in poplar. Molecular Biology and Evolution, msw169](http://mbe.oxfordjournals.org/content/early/2016/08/10/molbev.msw169.abstract)
+   - Species limits range shape the deleterious load
+   - Closely related to our invertion and range limits project
+8. [Lenz, T. L., Spirin, V., Jordan, D. M., & Sunyaev, S. R. (2016). Excess of deleterious mutations around HLA genes reveals evolutionary cost of balancing selection. Molecular Biology and Evolution](http://mbe.oxfordjournals.org/content/early/2016/06/29/molbev.msw127.full)
+   - Test the hypothesis that balancing selection may counteract purifying selection in neighboring regions and thus maintain deleterious variants at higher frequency than expected from their detrimental fitness effect
+   - Using whole-exome sequencing data from 6,500 human individuals
+9. [Kono, T. J., Fu, F., Mohammadi, M., Hoffman, P. J., Liu, C., Stupar, R. M., ... & Morrell, P. L. (2016). The role of deleterious substitutions in crop genomes.Molecular Biology and Evolution](http://mbe.oxfordjournals.org/content/early/2016/06/23/molbev.msw102.full)
