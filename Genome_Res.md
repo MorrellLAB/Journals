@@ -1,4 +1,10 @@
 # Genome Research
+- [Kadri et al., 2016. Coding and noncoding variants in HFM1, MLH3, MSH4, MSH5, RNF212, and RNF212B affect recombination rate in cattle](http://genome.cshlp.org/content/26/10/1323.abstract)
+    - Study of crossover rate and recombination rate modifiers in cattle from three mapping populations
+    - Recombination rate is heritable, and iedentify QTL for recombination rate
+    - Fine mapping to identify potentially causal variants in loci known to function in meiotic machinery
+- [Sanders et al., 2016. Characterizing polymorphic inversions in human genomes by single-cell sequencing](http://genome.cshlp.org/content/early/2016/10/07/gr.201160.115.abstract)
+    - Report a tool to characterize inversions from sequencing data of single cells
 - [Uricchio et al., 2016. Selection and explosive growth alter genetic architecture and hamper the detection of causal rare variants.](http://genome.cshlp.org/content/26/7/863.abstract)
     - Develop a phenotype model based off Simons et al. 2014 and Eyre-Walker 2010 that incorporates selective coefficients, effect sizes, and peiotropic effects
     - Evaluate their model with simulation and RNAseq of 360 individuals with European ancestry
