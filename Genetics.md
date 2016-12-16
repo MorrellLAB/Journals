@@ -3,17 +3,17 @@
 
 ---
 
-[Nichol et a.l 2016, Stochasticity in the Genotype-Phenotype Map: Implications for the Robustness and Persistence of Bet-Hedging](http://www.genetics.org/content/204/4/1523)
-     - Investigation using simple chemical reaction networks to implement stochastic switches that map gene products to phenotypes, and investigate the impact of structurally distinct mappings on the evolution of phenotypic heterogeneity
+[Nichol et a.l 2016, Stochasticity in the Genotype-Phenotype Map: Implications for the Robustness and Persistence of Bet-Hedging](http://www.genetics.org/content/204/4/1523)   
+- Investigation using simple chemical reaction networks to implement stochastic switches that map gene products to phenotypes, and investigate the impact of structurally distinct mappings on the evolution of phenotypic heterogeneity
 
 [Rockenbach et al. 2016, Positive Selection in Rapidly Evolving Plastid–Nuclear Enzyme Complexes](http://www.genetics.org/content/204/4/1507)
-     - "A massive excess of nonsynonymous substitutions between species relative to levels of intraspecific polymorphism indicated a history of strong positive selection (particularly in CLP genes)."
+- "A massive excess of nonsynonymous substitutions between species relative to levels of intraspecific polymorphism indicated a history of strong positive selection (particularly in CLP genes)."
 
 [Gattepaille et al. 2016, Inferring Past Effective Population Size from Distributions of Coalescent Times](http://www.genetics.org/content/204/3/1191)
-    - "We present an exact solution to compute the population size as a function of time based on distributions of coalescent times of samples of any size."
+- "We present an exact solution to compute the population size as a function of time based on distributions of coalescent times of samples of any size."
 
 [Dillon et al. 2016, The Fitness Effects of Spontaneous Mutations Nearly Unseen by Selection in a Bacterium with Multiple Chromosomes](http://www.genetics.org/content/204/3/1225)
-    - "A quantitative understanding of the fitness effects of mutations virtually unseen by selection has remained an untapped opportunity. Here, we analyzed the fitness of 43 sequenced MA lines of the multi-chromosome bacterium Burkholderia cenocepacia that had each undergone 5554 generations of MA and accumulated an average of 6.73 spontaneous mutations. Most lineages exhibited either neutral or deleterious fitness in three different environments in comparison with their common ancestor"
+- "A quantitative understanding of the fitness effects of mutations virtually unseen by selection has remained an untapped opportunity. Here, we analyzed the fitness of 43 sequenced MA lines of the multi-chromosome bacterium Burkholderia cenocepacia that had each undergone 5554 generations of MA and accumulated an average of 6.73 spontaneous mutations. Most lineages exhibited either neutral or deleterious fitness in three different environments in comparison with their common ancestor"
 
 [Natural Selection and Recombination Rate Variation Shape Nucleotide Polymorphism Across the Genomes of Three Related Populus Species](http://www.genetics.org/content/202/3/1185)
 - Looked at whole genome resequencing data to characterize and compare genome-wide patterns of nucleotide polymorphism, site frequency spectrum, and population-scaled recombination rates in three species of Populus
@@ -30,10 +30,7 @@
 [A Delicate Balance Between Repair and Replication Factors Regulates Recombination Between Divergent DNA Sequences in Saccharomyces cerevisiae](http://www.genetics.org/content/202/2/525)
 - Something for those are interested in mechanisms of recombination and molecular biology in general
 
-[Sorensen et al. 2015. Genetic Control of Environmental Variation of Two
-Quantitative Traits of Drosophila melanogaster
-Revealed by Whole-Genome Sequencing](http://www.genetics.org/content/early/2015/08/12/genetics.115.180273.full.pdf)
+[Sorensen et al. 2015. Genetic Control of Environmental Variation of Two Quantitative Traits of Drosophila melanogaster Revealed by Whole-Genome Sequencing](http://www.genetics.org/content/early/2015/08/12/genetics.115.180273.full.pdf)
 
-[Estimating Relatedness in the Presence of Null Alleles
-Kang Huang](http://www.genetics.org/content/202/1/247)
+[Estimating Relatedness in the Presence of Null Alleles Kang Huang](http://www.genetics.org/content/202/1/247)
 - Provides a framework for how to estimate relatedness when there may be null alleles present, which can cause over or under representation of the degree of relatedness
