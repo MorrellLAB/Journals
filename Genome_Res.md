@@ -1,5 +1,8 @@
 # Genome Research
-- [Kadri et al., 2016. Coding and noncoding variants in HFM1, MLH3, MSH4, MSH5, RNF212, and RNF212B affect recombination rate in cattle](http://genome.cshlp.org/content/26/10/1323.abstract)
+- [Dzamba et al., 2016. Identification of complex genomic rearrangements in cancers using CouGaR.](http://genome.cshlp.org/content/27/1/107.abstract)
+    - Uses coverae-based and discordant mapping-based approaches to identify genome rearrangements
+    - Can identify inversions and copy number variants from resequencing data
+- [Kadri et al., 2016. Coding and noncoding variants in HFM1, MLH3, MSH4, MSH5, RNF212, and RNF212B affect recombination rate in cattle.](http://genome.cshlp.org/content/26/10/1323.abstract)
     - Study of crossover rate and recombination rate modifiers in cattle from three mapping populations
     - Recombination rate is heritable, and iedentify QTL for recombination rate
     - Fine mapping to identify potentially causal variants in loci known to function in meiotic machinery
@@ -30,10 +33,8 @@
 	- Estimates of CNV much higher than those observed in other MA studies
 	- Evidence of meiotic and mitotic gene conversion (GC), with mitotic tract lengths being longer
 	- Evidence of purifying selection against CNV in natual populations
-
-- [Li et al., 2015. Phylogenomic evidence for ancient hybridization in the genomes of living cats (Felidae)](http://genome.cshlp.org/content/early/2015/11/30/gr.186668.114.abstract)
+- [Li et al., 2015. Phylogenomic evidence for ancient hybridization in the genomes of living cats (Felidae).](http://genome.cshlp.org/content/early/2015/11/30/gr.186668.114.abstract)
 	- Disconcordance between autosomal, mt-linked, X-linked, and Y-linked phylogenies
-
 - [He et al., 2015. A probabilistic method for testing and estimating selection differences between populations. 25(12):1903-9](http://genome.cshlp.org/content/25/12/1903.abstract)
 	- Probabilistic models of drift and selective coefficients to test for differential selection between populations
 	- Interesting: difference in selective coefficients is approximately normally distributed
