@@ -1,4 +1,10 @@
 # Genome Research
+- [Wang et al., (2017). Asian wild rice is a hybrid swarm with extensive gene flow and feralization from domesticated rice.](http://genome.cshlp.org/content/early/2017/04/06/gr.204800.116.abstract)
+    - Resequencing of hundreds of *O. sativa* and *O. rufipogon* accessions, analysis with NGSAdmix, TreeMix, haplotype sharing to infer admixture
+    - Find average shared haplotype tract length between *japonica* and wild relative is shorter than for *indica*, suggest older admixture
+    - Conclude that there is a lot of gene flow between domesticated rice and wild populations
+- [Zimin et al., 2017. Hybrid assembly of the large and highly repetitive genome of Aegilops tauschii, a progenitor of bread wheat, with the MaSuRCA mega-reads algorithm.](http://genome.cshlp.org/content/early/2017/04/06/gr.213405.116.abstract)
+    - Assembly of *Aegilops tauschii* using hybrid of short and long reads
 - [Dzamba et al., 2016. Identification of complex genomic rearrangements in cancers using CouGaR.](http://genome.cshlp.org/content/27/1/107.abstract)
     - Uses coverae-based and discordant mapping-based approaches to identify genome rearrangements
     - Can identify inversions and copy number variants from resequencing data
